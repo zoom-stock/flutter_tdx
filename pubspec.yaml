@@ -2,7 +2,7 @@ name: tdx
 description: A new Flutter package project.
 version: 0.0.1
 author:
-homepage:
+homepage: https://github.com/zoom-stock/flutter_tdx
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
